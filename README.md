@@ -27,10 +27,11 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 
+</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+<div>
 
 --
 
 
-
-**Obrigada por visitar!**  
 _"Conectar é apenas o começo. Monitorar é essencial."_ 🔎
